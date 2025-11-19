@@ -24,7 +24,7 @@ Template-Disertasi-UGM/
 │── bab3.tex                 # File .tex Bab 3
 │── bab4.tex                 # File .tex Bab 4
 │── figures/              # Gambar dan ilustrasi
-│── pustaka.bib          # File .bib untuk sitasi
+│── pustaka.bib          # File .bib untuk sitasi, letakkan semua referensi dalam format bib dalam file ini
 │── gcompil.sh           # Script kompilasi untuk Linux / macOS
 │── disertasi.pdf        # Hasil kompilasi contoh
 │── README.md
@@ -32,6 +32,9 @@ Template-Disertasi-UGM/
 
 ## Unduh
 ```text git clone https://github.com/<username>/Template-Disertasi-UGM.git ```
+
+## Editing
+Gunakan VSCode+Miktex untuk offline atau Overleaf.com untuk offline
 
 ## Kompilasi Dokumen (Linux/MacOS)
 ```text
