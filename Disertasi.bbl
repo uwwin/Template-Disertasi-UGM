@@ -1,0 +1,618 @@
+\begin{thebibliography}{}
+
+\bibitem[Al-Rakhami et~al., 2024]{Al-Rakhami2024}
+Al-Rakhami, M.~S., AlQahtani, S.~A., dan Alawwad, A. (2024).
+\newblock {Effective Skin Cancer Diagnosis Through Federated Learning and Deep
+  Convolutional Neural Networks}.
+\newblock {\em Applied Artificial Intelligence}, 38(1).
+
+\bibitem[Alruwais et~al., 2025]{Alruwais2025}
+Alruwais, N., Elhessewi, G. M.~S., Saeed, M.~K., Alshammeri, M., Alrusaini, O.,
+  Alkharashi, A., Zanin, S.~A., dan Said, Y. (2025).
+\newblock Federated learning and gwo-enabled consumer-centric healthcare
+  internet of things for pancreatic tumour.
+\newblock {\em Alexandria Engineering Journal}, 122:344–354.
+
+\bibitem[Alyu et~al., 2023]{Alyu2023}
+Alyu, A.~B., Salau, A.~O., Khan, B., dan Eneh, J.~N. (2023).
+\newblock Hybrid gwo-pso based optimal placement and sizing of multiple pv-dg
+  units for power loss reduction and voltage profile improvement.
+\newblock {\em Scientific Reports}, 13(1).
+
+\bibitem[Apellániz et~al., 2025]{Apellniz2025}
+Apellániz, P.~A., Parras, J., dan Zazo, S. (2025).
+\newblock Improving synthetic data generation through federated learning in
+  scarce and heterogeneous data scenarios.
+\newblock {\em Big Data and Cognitive Computing}, 9(2):18.
+
+\bibitem[Bouarara et~al., 2025]{Bouarara2025}
+Bouarara, H.~A., Rahmani, A., Rahmani, M.~E., dan Guendouz, M. (2025).
+\newblock Gendiabsec: A federated recurrent neural network with multistage
+  dnagen and blockchain for secure collaborative diabetes detection.
+\newblock {\em Iranian Journal of Science and Technology, Transactions of
+  Electrical Engineering}, 49(3):1185–1210.
+
+\bibitem[Bradley, 1997]{Bradley1997}
+Bradley, A.~P. (1997).
+\newblock The use of the area under the roc curve in the evaluation of machine
+  learning algorithms.
+\newblock {\em Pattern Recognition}, 30(7):1145–1159.
+
+\bibitem[{CDC}, 2017]{CDCDiabetes2017}
+{CDC} (2017).
+\newblock Cdc diabetes health indicators.
+
+\bibitem[Chai et~al., 2024]{Chai2024}
+Chai, J., Zhang, L., dan Liu, T. (2024).
+\newblock {\em The Development and Application Research of Grey Wolf
+  Optimization Algorithm}.
+\newblock IOS Press.
+
+\bibitem[Chang et~al., 2018]{Chang2018}
+Chang, K., Balachandar, N., Lam, C., Yi, D., Brown, J., Beers, A., Rosen, B.,
+  Rubin, D.~L., dan Kalpathy-Cramer, J. (2018).
+\newblock {Distributed deep learning networks among institutions for medical
+  imaging}.
+\newblock {\em Journal of the American Medical Informatics Association},
+  25(8):945--954.
+
+\bibitem[Combalia et~al., 2019]{Combalia2019}
+Combalia, M., Codella, N. C.~F., Rotemberg, V., Helba, B., Vilaplana, V.,
+  Reiter, O., Carrera, C., Barreiro, A., Halpern, A.~C., Puig, S., dan Malvehy,
+  J. (2019).
+\newblock {BCN20000: Dermoscopic Lesions in the Wild}.
+\newblock {\em arXiv}.
+
+\bibitem[Dankar dan Madathil, 2022]{Dankar2022}
+Dankar, F.~K. dan Madathil, N. (2022).
+\newblock Using synthetic data to reduce model convergence time in federated
+  learning.
+\newblock In {\em 2022 IEEE/ACM International Conference on Advances in Social
+  Networks Analysis and Mining (ASONAM)}, page 293–297. IEEE.
+
+\bibitem[Dastjerdi et~al., 2026]{Dastjerdi2026}
+Dastjerdi, M.~C., Jafari, M., Mokhtari, J., dan Jafari, H. (2026).
+\newblock Optimization of neutron radiography using machine learning and
+  genetic algorithm for boron concentration measurement.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  1082:171030.
+
+\bibitem[De~Lara, 2023]{DeLara2023}
+De~Lara, M. L.~D. (2023).
+\newblock Persistent homology classification algorithm.
+\newblock {\em PeerJ Computer Science}, 9:e1195.
+
+\bibitem[Deng et~al., 2023]{Deng2023}
+Deng, Z., Luo, L., dan Chen, H. (2023).
+\newblock {Scale Federated Learning for Label Set Mismatch in Medical Image
+  Classification}.
+\newblock In H., G., H., G., A., M., P., M., S., S., J., D., T., S.-M., dan R.,
+  T., editors, {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, volume 14222 LNCS, pages 118--127, Department of Computer
+  Science and Engineering, The Hong Kong University of Science and Technology,
+  Hong Kong. Springer Science and Business Media Deutschland GmbH.
+
+\bibitem[Din et~al., 2026]{Din2026}
+Din, S., Imran, M., Irfan, S., Tariq, A., Elgamal, Z., dan Dawood, H. (2026).
+\newblock Federated learning for melanoma detection: A decentralized and
+  privacy-preserving approach using deep learning.
+\newblock {\em Biomedical Signal Processing and Control}, 112:108576.
+
+\bibitem[Dogan, 2026]{Dogan2026}
+Dogan, Y. (2026).
+\newblock A novel pruning-enhanced hybrid approach for efficient and accurate
+  brain tumor diagnosis.
+\newblock {\em Biomedical Signal Processing and Control}, 112:108466.
+
+\bibitem[Fawcett, 2006]{Fawcett2006}
+Fawcett, T. (2006).
+\newblock An introduction to roc analysis.
+\newblock {\em Pattern Recognition Letters}, 27(8):861–874.
+
+\bibitem[Gayathri et~al., 2023]{Gayathri2023}
+Gayathri, P., Dhavileswarapu, A., Ibrahim, S., Paul, R., dan Gupta, R. (2023).
+\newblock Exploring the potential of vgg-16 architecture for accurate brain
+  tumor detection using deep learning.
+\newblock {\em Journal of Computers, Mechanical and Management}, 2(2).
+
+\bibitem[Glasgow et~al., 2022]{Glasgow22a}
+Glasgow, M.~R., Yuan, H., dan Ma, T. (2022).
+\newblock Sharp bounds for federated averaging (local sgd) and continuous
+  perspective.
+\newblock In Camps-Valls, G., Ruiz, F. J.~R., dan Valera, I., editors, {\em
+  Proceedings of The 25th International Conference on Artificial Intelligence
+  and Statistics}, volume 151 of {\em Proceedings of Machine Learning
+  Research}, pages 9050--9090. PMLR.
+
+\bibitem[Goceri, 2023]{Goceri2023}
+Goceri, E. (2023).
+\newblock Medical image data augmentation: techniques, comparisons and
+  interpretations.
+\newblock {\em Artificial Intelligence Review}, 56(11):12561–12605.
+
+\bibitem[Guo et~al., 2019]{Guo2019}
+Guo, C., Yang, Z., Wu, X., Tan, T., dan Zhao, K. (2019).
+\newblock Application of an adaptive multi-population parallel genetic
+  algorithm with constraints in electromagnetic tomography with incomplete
+  projections.
+\newblock {\em Applied Sciences}, 9(13):2611.
+
+\bibitem[Guo et~al., 2020]{Guo2020}
+Guo, M.~W., Wang, J.~S., Zhu, L.~F., Guo, S.~S., dan Xie, W. (2020).
+\newblock An improved grey wolf optimizer based on tracking and seeking modes
+  to solve function optimization problems.
+\newblock {\em IEEE Access}, 8:69861–69893.
+
+\bibitem[Hinton, 2018]{Hinton2018}
+Hinton, G. (2018).
+\newblock {Deep learning-a technology with the potential to transform health
+  care}.
+\newblock {\em JAMA - Journal of the American Medical Association},
+  320(11):1101--1102.
+
+\bibitem[Howard et~al., 2017]{Howard2017}
+Howard, A.~G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T.,
+  Andreetto, M., dan Adam, H. (2017).
+\newblock Mobilenets: Efficient convolutional neural networks for mobile vision
+  applications.
+\newblock {\em arXiv}.
+
+\bibitem[Hsieh et~al., 2019]{Hsieh2019}
+Hsieh, K., Phanishayee, A., Mutlu, O., dan Gibbons, P.~B. (2019).
+\newblock The non-iid data quagmire of decentralized machine learning.
+
+\bibitem[Hu dan Chaddad, 2023]{Hu2023}
+Hu, Y. dan Chaddad, A. (2023).
+\newblock {Boosting Classification Tasks with Federated Learning: Concepts,
+  Experiments and Perspectives}.
+\newblock In {\em Proceedings - 2023 IEEE 23rd International Conference on
+  Bioinformatics and Bioengineering, BIBE 2023}, pages 147--154, School of
+  Artificial Intelligence, Guilin University of Electronic Technology, Guangxi,
+  Guilin, China. Institute of Electrical and Electronics Engineers Inc.
+
+\bibitem[Huang et~al., 2020]{Huang2020}
+Huang, X., Khetan, A., Cvitkovic, M., dan Karnin, Z. (2020).
+\newblock Tabtransformer: Tabular data modeling using contextual embeddings.
+
+\bibitem[Isaksson et~al., 2023]{Isaksson2023}
+Isaksson, M., Listo~Zec, E., C\"{o}ster, R., Gillblad, D., dan Girdzijauskas,
+  S. (2023).
+\newblock {\em Adaptive Expert Models for Federated Learning}, page 1–16.
+\newblock Springer International Publishing.
+
+\bibitem[Islam et~al., 2023]{Islam2023}
+Islam, M., Reza, M.~T., Kaosar, M., dan Parvez, M.~Z. (2023).
+\newblock {Effectiveness of Federated Learning and CNN Ensemble Architectures
+  for Identifying Brain Tumors Using MRI Images}.
+\newblock {\em Neural Processing Letters}, 55(4):3779--3809.
+
+\bibitem[Jia et~al., 2018]{Jia2018}
+Jia, Z., Zaharia, M., dan Aiken, A. (2018).
+\newblock {Beyond Data and Model Parallelism for Deep Neural Networks}.
+\newblock {\em arXiv}.
+
+\bibitem[Jiang et~al., 2023]{Jiang2023}
+Jiang, X., Hu, Z., Wang, S., dan Zhang, Y. (2023).
+\newblock Deep learning for medical image-based cancer diagnosis.
+\newblock {\em Cancers}, 15(14):3608.
+
+\bibitem[Joshi et~al., 2025]{Joshi2025}
+Joshi, K., Hooda, S., Yadav, Y., Singh, G., Nehra, A., Tuteja, N., Gill, R.,
+  dan Gill, S.~S. (2025).
+\newblock Genetic algorithm enhanced deep learning with data augmentation for
+  nitrogen and potassium deficiency detection in eggplant.
+\newblock {\em Current Plant Biology}, 44:100546.
+
+\bibitem[Junejo et~al., 2025]{Junejo2025}
+Junejo, R.~H., Abbas, Q., Awais, M., Akram, T., dan Aldajani, M.~B. (2025).
+\newblock Federated vit: A distributed deep learning framework for skin cancer
+  classification.
+\newblock {\em IEEE Access}, 13:166326–166342.
+
+\bibitem[Kairouz et~al., 2021]{Kairouz2021}
+Kairouz, P., McMahan, H.~B., Avent, B., Bellet, A., Bennis, M., Bhagoji, A.~N.,
+  Bonawitz, K., Charles, Z., Cormode, G., Cummings, R., D'Oliveira, R.~G.,
+  Eichner, H., {El Rouayheb}, S., Evans, D., Gardner, J., Garrett, Z.,
+  Gasc{\'{o}}n, A., Ghazi, B., Gibbons, P.~B., Gruteser, M., Harchaoui, Z., He,
+  C., He, L., Huo, Z., Hutchinson, B., Hsu, J., Jaggi, M., Javidi, T., Joshi,
+  G., Khodak, M., Konecn{\'{i}}, J., Korolova, A., Koushanfar, F., Koyejo, S.,
+  Lepoint, T., Liu, Y., Mittal, P., Mohri, M., Nock, R., {\"{O}}zg{\"{u}}r, A.,
+  Pagh, R., Qi, H., Ramage, D., Raskar, R., Raykova, M., Song, D., Song, W.,
+  Stich, S.~U., Sun, Z., Suresh, A.~T., Tram{\`{e}}r, F., Vepakomma, P., Wang,
+  J., Xiong, L., Xu, Z., Yang, Q., Yu, F.~X., Yu, H., dan Zhao, S. (2021).
+\newblock {Advances and open problems in federated learning}.
+\newblock {\em Foundations and Trends in Machine Learning}, 14(1-2):1--210.
+
+\bibitem[Kaissis et~al., 2020]{Kaissis2020}
+Kaissis, G.~A., Makowski, M.~R., R{\"{u}}ckert, D., dan Braren, R.~F. (2020).
+\newblock {Secure, privacy-preserving and federated machine learning in medical
+  imaging}.
+\newblock {\em Nature Machine Intelligence}, 2(6):305--311.
+
+\bibitem[Khullar et~al., 2025]{Khullar2025}
+Khullar, V., Kaur, P., Gargrish, S., Mishra, A.~M., Singh, P., Diwakar, M.,
+  Bijalwan, A., dan Gupta, I. (2025).
+\newblock Minimal sourced and lightweight federated transfer learning models
+  for skin cancer detection.
+\newblock {\em Scientific Reports}, 15(1).
+
+\bibitem[Kone{\v{c}}n{\'{y}} et~al., 2016]{Konecny2016}
+Kone{\v{c}}n{\'{y}}, J., McMahan, H.~B., Ramage, D., dan Richt{\'{a}}rik, P.
+  (2016).
+\newblock {Federated Optimization: Distributed Machine Learning for On-Device
+  Intelligence}.
+\newblock {\em arXiv}.
+
+\bibitem[Krizhevsky et~al., 2017]{Krizhevsky2017}
+Krizhevsky, A., Sutskever, I., dan Hinton, G.~E. (2017).
+\newblock {ImageNet classification with deep convolutional neural networks}.
+\newblock {\em Communications of the ACM}, 60(6):84--90.
+
+\bibitem[Kumar et~al., 2024]{Kumar2024}
+Kumar, B., Evin, M., Byeon, H., Sivaprakash, M., Sheeba, P.~M., dan Sunil, J.
+  (2024).
+\newblock {Enhancing the Long-Term Sustainability of Healthcare Data
+  Optimization Through Deep Federated Learning}.
+\newblock In {\em 2024 IEEE International Conference on Intelligent Techniques
+  in Control, Optimization and Signal Processing, INCOS 2024 - Proceedings},
+  School of Computer Application Lovely Professional University, Punjab,
+  Phagwara, India. Institute of Electrical and Electronics Engineers Inc.
+
+\bibitem[Kumar~Chaudhary et~al., 2025]{KumarChaudhary2025}
+Kumar~Chaudhary, R., Kumar, R., dan Saxena, N. (2025).
+\newblock Ameliorating clustered federated learning using grey wolf
+  optimization algorithm for healthcare iot devices.
+\newblock {\em The Journal of Supercomputing}, 81(8).
+
+\bibitem[{Le Dinh Viet} et~al., 2023]{LeDinhViet2023}
+{Le Dinh Viet}, K., {Le Ha}, K., Quoc, T.~N., dan Hoang, V.~T. (2023).
+\newblock {MRI Brain Tumor Classification based on Federated Deep Learning}.
+\newblock In {\em 2023 IEEE Zooming Innovation in Consumer Technologies
+  Conference, ZINC 2023}, pages 131--135. IEEE.
+
+\bibitem[Lecun et~al., 2015]{Lecun2015}
+Lecun, Y., Bengio, Y., dan Hinton, G. (2015).
+\newblock {Deep learning}.
+\newblock {\em Nature}, 521(7553):436--444.
+
+\bibitem[Lee et~al., 2023a]{Lee2023a}
+Lee, K., Lee, H., Cavalcanti, T.~C., Kim, S., {El Fakhri}, G., Lee, D.~H., Woo,
+  J., dan Hwang, J.~Y. (2023a).
+\newblock {Fine-Tuning Network in Federated Learning for Personalized Skin
+  Diagnosis}.
+\newblock In H., G., H., G., A., M., P., M., S., S., J., D., T., S.-M., dan R.,
+  T., editors, {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, volume 14222 LNCS, pages 378--388, Department of Electrical
+  Engineering and Computer Science, Daegu Gyeongbuk Institute of Science and
+  Technology, Daegu, 42988, South Korea. Springer Science and Business Media
+  Deutschland GmbH.
+
+\bibitem[Lee et~al., 2023b]{Lee2023}
+Lee, K., Lee, H., Cavalcanti, T.~C., Kim, S., {El Fakhri}, G., Lee, D.~H., Woo,
+  J., dan Hwang, J.~Y. (2023b).
+\newblock {Fine-Tuning Network in Federated Learning for Personalized Skin
+  Diagnosis}.
+\newblock pages 378--388. Springer International Publishing.
+
+\bibitem[Leecun, 1998]{Leecun1998}
+Leecun, Y. (1998).
+\newblock {MNIST Database of Handwritten Digits}.
+
+\bibitem[Li et~al., 2021]{LiQin2021}
+Li, Q., Diao, Y., Chen, Q., dan He, B. (2021).
+\newblock Federated learning on non-iid data silos: An experimental study.
+\newblock {\em arXiv}.
+
+\bibitem[Li et~al., 2020]{Li2020}
+Li, T., Sahu, A.~K., Talwalkar, A., dan Smith, V. (2020).
+\newblock {Federated Learning: Challenges, Methods, and Future Directions}.
+\newblock {\em IEEE Signal Processing Magazine}, 37(3):50--60.
+
+\bibitem[Li et~al., 2023]{Li2023}
+Li, Y., He, Y., Fu, Y., dan Shan, S. (2023).
+\newblock {Privacy Preserved Federated Learning for Skin Cancer Diagnosis}.
+\newblock In {\em 2023 IEEE 3rd International Conference on Power, Electronics
+  and Computer Applications, ICPECA 2023}, pages 27--33, University of Glasgow,
+  Electrical and Electronic Engineering, Glasgow, United Kingdom. Institute of
+  Electrical and Electronics Engineers Inc.
+
+\bibitem[Li et~al., 2024]{Li2024vgg}
+Li, Y., Qin, M., dan Tang, Z. (2024).
+\newblock Vgg and inceptionv3 model based on cifar data contrast analysis.
+\newblock {\em Applied and Computational Engineering}, 79(1):90–96.
+
+\bibitem[Lie, 2010]{Lie2010}
+Lie, L. (2010).
+\newblock Heuristic artificial intelligent algorithm for genetic algorithm.
+\newblock {\em Key Engineering Materials}, 439–440:516–521.
+
+\bibitem[Lin et~al., 2026]{Lin2026}
+Lin, P., Peng, X., Huang, B., Sun, H., dan Wang, M. (2026).
+\newblock Characterization of groundwater and prediction of water temperature
+  for tunnel face based on ir-yolo and ir-lstm.
+\newblock {\em Tunnelling and Underground Space Technology}, 167:107040.
+
+\bibitem[Lin et~al., 2025]{Lin2025}
+Lin, Y., Zhao, X., dan Yin, Z. (2025).
+\newblock Dynamic weight federated client selection using adaptive genetic
+  algorithm.
+\newblock {\em Cluster Computing}, 28(12).
+
+\bibitem[Liu et~al., 2023]{Liu2023Many}
+Liu, S.-C., Chen, Z.-G., Zhan, Z.-H., Jeon, S.-W., Kwong, S., dan Zhang, J.
+  (2023).
+\newblock Many-objective job-shop scheduling: A multiple populations for
+  multiple objectives-based genetic algorithm approach.
+\newblock {\em IEEE Transactions on Cybernetics}, 53(3):1460–1474.
+
+\bibitem[Liu et~al., 2024]{Liu2024}
+Liu, Z., Agu, E., Pedersen, P., Lindsay, C., Tulu, B., dan Strong, D. (2024).
+\newblock Chronic wound image augmentation and assessment using semi-supervised
+  progressive multi-granularity efficientnet.
+\newblock {\em IEEE Open Journal of Engineering in Medicine and Biology},
+  5:404–420.
+
+\bibitem[Lu et~al., 2024]{Lu2024}
+Lu, Z., Pan, H., Dai, Y., Si, X., dan Zhang, Y. (2024).
+\newblock Federated learning with non-iid data: A survey.
+\newblock {\em IEEE Internet of Things Journal}, 11(11):19188–19209.
+
+\bibitem[Luo et~al., 2023]{Luo2023}
+Luo, G., Liu, T., Lu, J., Chen, X., Yu, L., Wu, J., Chen, D.~Z., dan Cai, W.
+  (2023).
+\newblock {Influence of Data Distribution on Federated Learning Performance in
+  Tumor Segmentation}.
+\newblock {\em Radiology: Artificial Intelligence}, 5(3).
+
+\bibitem[Mahlool dan Abed, 2022]{Mahlool2022}
+Mahlool, D.~H. dan Abed, M.~H. (2022).
+\newblock {Optimize Weight sharing for Aggregation Model in Federated Learning
+  Environment of Brain Tumor classification}.
+\newblock {\em Journal of Al-Qadisiyah for Computer Science and Mathematics},
+  14(3).
+
+\bibitem[Mani dan Nagaraj, 2025]{Mani2025}
+Mani, R.~K. dan Nagaraj, B. (2025).
+\newblock Diagnosis and classification of neuromuscular disorders using bi-lstm
+  optimized with grey wolf optimizer for emg signals.
+\newblock {\em Scientific Reports}, 15(1).
+
+\bibitem[McMahan et~al., 2017]{McMahan2017}
+McMahan, H.~B., Moore, E., Ramage, D., Hampson, S., dan {Ag{\"{u}}era y Arcas},
+  B. (2017).
+\newblock {Communication-efficient learning of deep networks from decentralized
+  data}.
+\newblock {\em Proceedings of the 20th International Conference on Artificial
+  Intelligence and Statistics, AISTATS 2017}.
+
+\bibitem[Mei et~al., 2024]{Mei2024}
+Mei, Y., Jin, Z., Ma, W., Ma, Y., Deng, N., Fan, Z., dan Wei, S. (2024).
+\newblock Optimizing acute coronary syndrome patient treatment: Leveraging
+  gated transformer models for precise risk prediction and management.
+\newblock {\em Bioengineering}, 11(6):551.
+
+\bibitem[Momanyi dan Segera, 2021]{Momanyi2021}
+Momanyi, E. dan Segera, D. (2021).
+\newblock A master‐slave binary grey wolf optimizer for optimal feature
+  selection in biomedical data classification.
+\newblock {\em BioMed Research International}, 2021(1).
+
+\bibitem[Moshawrab et~al., 2023]{Moshawrab2023}
+Moshawrab, M., Adda, M., Bouzouane, A., Ibrahim, H., dan Raad, A. (2023).
+\newblock Reviewing federated machine learning and its use in diseases
+  prediction.
+\newblock {\em Sensors}, 23(4):2112.
+
+\bibitem[M\"{u}hlberg et~al., 2023]{Mhlberg2023}
+M\"{u}hlberg, A., Ritter, P., Langer, S., Goossens, C., N\"{u}bler, S.,
+  Schneidereit, D., Taubmann, O., Denzinger, F., N\"{o}renberg, D., Haug, M.,
+  Sch\"{u}rmann, S., Horstmeyer, R., Maier, A.~K., Goldmann, W.~H., Friedrich,
+  O., dan Kreiss, L. (2023).
+\newblock Sempai: a self‐enhancing multi‐photon artificial intelligence for
+  prior‐informed assessment of muscle function and pathology.
+\newblock {\em Advanced Science}, 10(28).
+
+\bibitem[Murad et~al., 2025]{Murad2025}
+Murad, S.~H., Tayfor, N.~B., Mahmood, N.~H., dan Arman, L. (2025).
+\newblock Hybrid genetic algorithms-driven optimization of machine learning
+  models for heart disease prediction.
+\newblock {\em MethodsX}, 15:103510.
+
+\bibitem[Nilsson et~al., 2018]{Nilsson2018}
+Nilsson, A., Smith, S., Ulm, G., Gustavsson, E., dan Jirstrand, M. (2018).
+\newblock {A performance evaluation of federated learning algorithms}.
+\newblock In {\em DIDL 2018 - Proceedings of the 2nd Workshop on Distributed
+  Infrastructures for Deep Learning, Part of Middleware 2018}, pages 1--8, New
+  York, NY, USA. ACM.
+
+\bibitem[Oh et~al., 2020]{Oh2020}
+Oh, S., Park, J., Jeong, E., Kim, H., Bennis, M., dan Kim, S.-L. (2020).
+\newblock Mix2fld: Downlink federated learning after uplink federated
+  distillation with two-way mixup.
+\newblock {\em IEEE Communications Letters}, 24(10):2211–2215.
+
+\bibitem[Raschka, 2018]{Raschka2018}
+Raschka, S. (2018).
+\newblock Model evaluation, model selection, and algorithm selection in machine
+  learning.
+
+\bibitem[Reddy et~al., 2024]{NagarjunaReddy2024}
+Reddy, G.~N., Kumar, B.~G., Pavithra, A., Swetha, D., dan Yaswanth, C. (2024).
+\newblock Performance evaluation of vgg 19 model for brain tumor datasets.
+\newblock {\em International Journal of Scientific Research in Computer
+  Science, Engineering and Information Technology}, 10(3):75–83.
+
+\bibitem[Remedios et~al., 2020]{Remedios2020}
+Remedios, S.~W., Roy, S., Bermudez, C., Patel, M.~B., Butman, J.~A., Landman,
+  B.~A., dan Pham, D.~L. (2020).
+\newblock {Distributed deep learning across multisite datasets for generalized
+  CT hemorrhage segmentation}.
+\newblock {\em Medical Physics}, 47(1):89--98.
+
+\bibitem[Ren, 2024]{Ren2024}
+Ren, X. (2024).
+\newblock Predictions of diabetes through machine learning models based on the
+  health indicators dataset.
+\newblock {\em Applied and Computational Engineering}, 32(1):216–222.
+
+\bibitem[Ribero et~al., 2023]{Ribero2023}
+Ribero, M., Vikalo, H., dan de~Veciana, G. (2023).
+\newblock Federated learning under intermittent client availability and
+  time-varying communication constraints.
+\newblock {\em IEEE Journal of Selected Topics in Signal Processing},
+  17(1):98–111.
+
+\bibitem[Roy et~al., 2022]{Roy2022}
+Roy, S., A.~Crossley, W., dan Jain, S. (2022).
+\newblock {\em A Hybrid Approach for Solving Constrained Multi-Objective
+  Mixed-Discrete Nonlinear Programming Engineering Problems}.
+\newblock IntechOpen.
+
+\bibitem[Saha et~al., 2025]{Saha2025}
+Saha, S., Biswas, S., Sarkar, S., Hadi, M.~A., Basak, N., dan Sultana, M.~Z.
+  (2025).
+\newblock Skinflnet: A federated learning approach for skin cancer detection
+  utilizing skin dermoscopy images.
+\newblock {\em Biomedical Materials &amp; Devices}, 4(1):921–935.
+
+\bibitem[Sarantinopoulos et~al., 2025]{Sarantinopoulos2025}
+Sarantinopoulos, E., Michalakopoulos, V., Sarmas, E., Marinakis, V., Toderean,
+  L., dan Cioara, T. (2025).
+\newblock Meta-heuristic federated learning aggregation methods for load
+  forecasting.
+\newblock {\em Energy and AI}, 22:100594.
+
+\bibitem[Sarker, 2021]{Sarker2021}
+Sarker, I.~H. (2021).
+\newblock {Deep Learning: A Comprehensive Overview on Techniques, Taxonomy,
+  Applications and Research Directions}.
+\newblock {\em SN Computer Science}, 2(6):420.
+
+\bibitem[Sattelberg et~al., 2023]{Sattelberg2023}
+Sattelberg, B., Cavalieri, R., Kirby, M., Peterson, C., dan Beveridge, R.
+  (2023).
+\newblock Locally linear attributes of relu neural networks.
+\newblock {\em Frontiers in Artificial Intelligence}, 6.
+
+\bibitem[Tan dan Le, 2019]{Tan19a}
+Tan, M. dan Le, Q. (2019).
+\newblock {E}fficient{N}et: Rethinking model scaling for convolutional neural
+  networks.
+\newblock In Chaudhuri, K. dan Salakhutdinov, R., editors, {\em Proceedings of
+  the 36th International Conference on Machine Learning}, volume~97 of {\em
+  Proceedings of Machine Learning Research}, pages 6105--6114. PMLR.
+
+\bibitem[Toderean et~al., 2025]{Toderean2025}
+Toderean, L., Daian, M., Cioara, T., Anghel, I., Michalakopoulos, V.,
+  Sarantinopoulos, E., dan Sarmas, E. (2025).
+\newblock Heuristic based federated learning with adaptive hyperparameter
+  tuning for households energy prediction.
+\newblock {\em Scientific Reports}, 15(1).
+
+\bibitem[Tschandl et~al., 2018]{Tschandl2018}
+Tschandl, P., Rosendahl, C., dan Kittler, H. (2018).
+\newblock The ham10000 dataset, a large collection of multi-source
+  dermatoscopic images of common pigmented skin lesions.
+\newblock {\em Scientific Data}, 5(1).
+
+\bibitem[Tuladhar et~al., 2022]{Tuladhar2022}
+Tuladhar, A., Tyagi, L., Souza, R., dan Forkert, N.~D. (2022).
+\newblock {Federated Learning Using Variable Local Training for Brain Tumor
+  Segmentation}.
+\newblock In {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, volume 12963 LNCS, pages 392--404. Springer.
+
+\bibitem[Wang et~al., 2023a]{Wang2023}
+Wang, C., Xu, C., Zhang, Y., dan Lu, P. (2023a).
+\newblock Diagnosis of chest pneumonia with x-ray images based on graph
+  reasoning.
+\newblock {\em Diagnostics}, 13(12):2125.
+
+\bibitem[Wang et~al., 2023b]{Wang2023Tab}
+Wang, H., Zhou, Q., Wei, S., Xue, X., Zhou, X., dan Zhang, X. (2023b).
+\newblock Research on seabed sediment classification based on the
+  msc-transformer and sub-bottom profiler.
+\newblock {\em Journal of Marine Science and Engineering}, 11(5):1074.
+
+\bibitem[Wang et~al., 2019]{Wang2019}
+Wang, S., Tuor, T., Salonidis, T., Leung, K.~K., Makaya, C., He, T., dan Chan,
+  K. (2019).
+\newblock Adaptive federated learning in resource constrained edge computing
+  systems.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  37(6):1205–1221.
+
+\bibitem[Wang, 2017]{Wang2017}
+Wang, Y. (2017).
+\newblock {\em {Co-Op: Cooperative Machine Learning From Mobile Devices}}.
+\newblock PhD thesis, University of Alberta.
+
+\bibitem[Wu et~al., 2024]{Wu2024}
+Wu, N., Zhao, W., Chen, Y., Xiao, J., Wang, J., Liang, W., Li, K.-C., dan
+  Sukhija, N. (2024).
+\newblock Hfsl: heterogeneity split federated learning based on client
+  computing capabilities.
+\newblock {\em The Journal of Supercomputing}, 81(1).
+
+\bibitem[Xia dan Ramezani, 2023]{Xia2023}
+Xia, H.~M. dan Ramezani, R. (2023).
+\newblock Analyzing the performance of tabtransformer in brain stroke
+  prediction.
+\newblock {\em Journal of Student Research}, 12(1).
+
+\bibitem[Xie et~al., 2025]{Xie2025}
+Xie, J., Wei, J., Huang, H., Fu, S., dan Lu, Z. (2025).
+\newblock Enhanced binary grey wolf optimizer based on quantum computing and
+  multi-strategy for feature selection on high-dimensional data classification.
+\newblock {\em Chaos, Solitons &amp; Fractals}, 201:117056.
+
+\bibitem[Yang et~al., 2019]{Yang2019}
+Yang, Q., Liu, Y., Chen, T., dan Tong, Y. (2019).
+\newblock {Federated machine learning: Concept and applications}.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology},
+  10(2):1--19.
+
+\bibitem[Ye et~al., 2025]{Ye2025}
+Ye, M., Shen, W., Du, B., Snezhko, E., Kovalev, V., dan Yuen, P.~C. (2025).
+\newblock Vertical federated learning for effectiveness, security,
+  applicability: A survey.
+\newblock {\em ACM Computing Surveys}, 57(9):1–32.
+
+\bibitem[Zakaria dan Mohmad~Hassim, 2023]{Zakaria2023}
+Zakaria, N. dan Mohmad~Hassim, Y.~M. (2023).
+\newblock Improved image classification task using enhanced visual geometry
+  group of convolution neural networks.
+\newblock {\em JOIV International Journal on Informatics Visualization},
+  7(4):2498.
+
+\bibitem[Zeiler dan Fergus, 2014]{Zeiler2014}
+Zeiler, M.~D. dan Fergus, R. (2014).
+\newblock {Visualizing and understanding convolutional networks}.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 8689
+  LNCS(PART 1):818--833.
+
+\bibitem[Zhang et~al., 2018]{Zhang2018}
+Zhang, Z., Yin, L., Peng, Y., dan Li, D. (2018).
+\newblock {A Quick Survey on Large Scale Distributed Deep Learning Systems}.
+\newblock In {\em Proceedings of the International Conference on Parallel and
+  Distributed Systems - ICPADS}, volume 2018-Decem, pages 1052--1056. IEEE.
+
+\bibitem[Zhou et~al., 2022]{Zhou2022}
+Zhou, Z., Li, Y., Ren, X., dan Yang, S. (2022).
+\newblock {Towards Efficient and Stable K-Asynchronous Federated Learning With
+  Unbounded Stale Gradients on Non-IID Data}.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  33(12):3291--3305.
+
+\bibitem[Zhu et~al., 2023]{Zhu2023}
+Zhu, Q., Li, Y., dan Zhang, Z. (2023).
+\newblock Swarm robots search for multiple targets based on historical optimal
+  weighting grey wolf optimization.
+\newblock {\em Mathematics}, 11(12):2630.
+
+\end{thebibliography}

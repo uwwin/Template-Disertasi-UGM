@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Disertasi.aux
+The style file: pustakastyle.bst
+Illegal, another \bibstyle command---line 465 of file Disertasi.aux
+ : \bibstyle
+ :          {pustakastyle}
+I'm skipping whatever remains of this command
+"\" can't start a style-file command---line 75 of file pustakastyle.bst
+ : 
+ : \def\biblabelprint#1{\noind\hbox to 2em{\hss#1\hss}\hfill} % BibTeX `apalike' bibliography style (version 0.99a, 8-Dec-10), adapted from
+(Error may have been on previous line)
+Database file #1: pustaka.bib
+Repeated entry---line 2742 of file pustaka.bib
+ : @article{Lin2025
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3227 of file pustaka.bib
+ : @article{Luo2023
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Chawla2002"
+Warning--empty chapter and pages in Chai2024
+Warning--empty journal in Hsieh2019
+Warning--empty booktitle in Lee2023
+Warning--empty chapter and pages in Roy2022
+"\" can't start a style-file command---line 1181 of file pustakastyle.bst
+ : 
+ : \def\biblabelcontents#1{}%
+(Error may have been on previous line)
+You've used 94 entries,
+            1935 wiz_defined-function locations,
+            1089 strings with 27139 characters,
+and the built_in function-call counts, 44592 in all, are:
+= -- 4114
+> -- 2630
+< -- 41
++ -- 957
+- -- 937
+* -- 4139
+:= -- 7871
+add.period$ -- 290
+call.type$ -- 94
+change.case$ -- 924
+chr.to.int$ -- 92
+cite$ -- 98
+duplicate$ -- 1462
+empty$ -- 2667
+format.name$ -- 1049
+if$ -- 8526
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 92
+newline$ -- 468
+num.names$ -- 290
+pop$ -- 819
+preamble$ -- 1
+purify$ -- 928
+quote$ -- 0
+skip$ -- 1126
+stack$ -- 0
+substring$ -- 2653
+swap$ -- 227
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 558
+warning$ -- 4
+while$ -- 289
+width$ -- 0
+write$ -- 1224
+(There were 5 error messages)

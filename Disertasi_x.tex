@@ -1,0 +1,92 @@
+% Load Proposal Disertasi Class
+%-----------------------------------------------------------------
+\documentclass[proposal]{disertasiMIPA}
+%-----------------------------------------------------------------
+% Overwrite package
+%-----------------------------------------------------------------
+\usepackage{longtable}
+\usepackage{ragged2e}
+\usepackage{lipsum}
+\usepackage{hyperref}
+% \usepackage[linesnumbered,ruled,vlined]{algorithm2e}
+\hypersetup{
+    colorlinks = true,
+    citecolor  = {red},
+    linkcolor  = {black}
+}
+\usepackage{pdflscape}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage[margin=1cm]{caption}
+%---gambar kamus---%
+\usepackage{xcolor}
+\usepackage{listings}
+%--gambar bagan------%
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, positioning}
+\usepackage{caption}
+\usepackage{array}
+\usepackage{makecell}
+%---gambar kamus---%
+\definecolor{codegray}{gray}{0.95}
+%--tabel jadwal penelitian---%
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{placeins} 
+\usepackage{float}
+\usepackage{makecell}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{colortbl}
+\usepackage[table]{xcolor}
+% \usepackage[margin=2.2cm]{geometry}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{natbib}
+\lstdefinelanguage{json}{
+    basicstyle=\ttfamily\small,
+    showstringspaces=false,
+    breaklines=true,
+    backgroundcolor=\color{codegray},
+    literate=
+     *{0}{{{\color{blue}0}}}{1}
+      {1}{{{\color{blue}1}}}{1}
+      {2}{{{\color{blue}2}}}{1}
+      {3}{{{\color{blue}3}}}{1}
+      {4}{{{\color{blue}4}}}{1}
+      {5}{{{\color{blue}5}}}{1}
+      {6}{{{\color{blue}6}}}{1}
+      {7}{{{\color{blue}7}}}{1}
+      {8}{{{\color{blue}8}}}{1}
+      {9}{{{\color{blue}9}}}{1}
+      {:}{{{\color{black}:}}}{1}
+      {,}{{{\color{black},}}}{1}
+      {"}{{{\color{red}"}}}{1},
+}
+
+
+
+%-----------------------------------------------------------------
+% Awal Konten Utama Proposal
+%-----------------------------------------------------------------
+\begin{document}
+\input{coverawal}
+\tableofcontents
+\listoftables
+\listoffigures
+\input{Intisari}
+ \input{bab1}
+\input{bab2}
+ \input{bab3}
+\input{bab4}
+\cleardoublepage
+\addcontentsline{toc}{chapter}{DAFTAR PUSTAKA}
+\input{daftarpustaka}
+%\input{Lampiran}
+%\includepdf[pages=-]{reviewpaper1.pdf}
+\end{document}
+%-----------------------------------------------------------------
+% Akhir Konten Utama Proposal
+%-----------------------------------------------------------------
