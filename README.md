@@ -31,7 +31,7 @@ Template-Disertasi-UGM/
 ```
 
 ## Unduh
-```text git clone https://github.com/<username>/Template-Disertasi-UGM.git ```
+``` git clone https://github.com/<username>/Template-Disertasi-UGM.git ```
 
 ## Editing
 ### Online
@@ -52,13 +52,13 @@ Template-Disertasi-UGM/
 
 
 ## Kompilasi Dokumen (Linux/MacOS)
-```text
+```
 ./gcompil.sh
 ```
 
 ## Kompilasi OS Windows 
 Buat file compile.bat
-```text
+```
 pdflatex disertasi.tex
 bibtex disertasi
 pdflatex disertasi.tex
@@ -67,6 +67,6 @@ pdflatex disertasi.tex
 Lakukan kompilasi menggunakan command prompt gunakan perintah compile.bat pada direktori project.
 
 ## Contact
-```text
+```
 Apabila ada hal yang belum jelas bisa contact saya di win[at]staff[dot]uns[dot]ac[dot]id
 ```
