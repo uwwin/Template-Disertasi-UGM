@@ -34,7 +34,22 @@ Template-Disertasi-UGM/
 ```text git clone https://github.com/<username>/Template-Disertasi-UGM.git ```
 
 ## Editing
-Gunakan VSCode+Miktex untuk offline atau Overleaf.com untuk offline
+### Online
+| Tools                       | Kelebihan                                                                           | Link                                                 |
+| --------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Overleaf**                | Kolaborasi real-time, template siap pakai, integrasi Git, kompilasi otomatis online | [https://www.overleaf.com](https://www.overleaf.com) |
+| **Papeeria**                | Kolaborasi tim dan versi Git, alternatif ringan                                     | [https://papeeria.com](https://papeeria.com)         |
+| **ShareLaTeX (historical)** | Terintegrasi Overleaf                                                               | Digabung ke Overleaf                                 |
+
+### Offline
+| Tools                         | Kelebihan                                              | Sistem Operasi          |
+| ----------------------------- | ------------------------------------------------------ | ----------------------- |
+| **TeXStudio**                 | Editor LATEX intuitif dengan autocomplete              | Windows / Linux / macOS |
+| **TeXMaker**                  | Editor GUI ringan dan stabil                           | Windows / Linux / macOS |
+| **VSCode + LaTeX Workshop**   | Ekosistem plugin kuat, integrasi Git, sangat fleksibel | Windows / Linux / macOS |
+| **Sublime Text + LaTeXTools** | Responsif dan minimalis                                | Windows / Linux / macOS |
+| **LyX**                       | Mode visual seperti Word tetapi menghasilkan LATEX     | Windows / Linux / macOS |
+
 
 ## Kompilasi Dokumen (Linux/MacOS)
 ```text
