@@ -31,7 +31,9 @@ Template-Disertasi-UGM/
 ```
 
 ## Unduh
-``` git clone https://github.com/<username>/Template-Disertasi-UGM.git ```
+```text 
+git clone https://github.com/uwwin/Template-Disertasi-UGM.git
+```
 
 ## Editing
 ### Online
