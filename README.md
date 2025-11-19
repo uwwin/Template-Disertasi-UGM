@@ -39,14 +39,15 @@ Template-Disertasi-UGM/
 ```
 
 ## Kompilasi OS Windows 
+Buat file compile.bat
 ```text
-Buat file .bat
-
 pdflatex disertasi.tex
 bibtex disertasi
 pdflatex disertasi.tex
 pdflatex disertasi.tex
 ```
+Lakukan kompilasi menggunakan command prompt gunakan perintah compile.bat pada direktori project.
+
 ## Contact
 ```text
 Apabila ada hal yang belum jelas bisa contact saya di win[at]staff[dot]uns[dot]ac[dot]id
