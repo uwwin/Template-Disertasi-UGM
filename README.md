@@ -1,4 +1,4 @@
-# 📝 Template Disertasi UGM – S3 Ilmu Komputer & Elektronika FMIPA
+# 📝 Template Latex Disertasi UGM – S3 Ilmu Komputer & Elektronika FMIPA
 
 Repositori ini menyediakan _template_ LATEX untuk penyusunan Disertasi Program Doktor (S3) Departemen Ilmu Komputer dan Elektronika, FMIPA Universitas Gadjah Mada. Template ini dirancang agar sesuai dengan pedoman penulisan disertasi UGM dan dapat digunakan sebagai dasar pengembangan dokumen ilmiah terstruktur, siap publikasi, dan layak diaudit secara akademik.
 
